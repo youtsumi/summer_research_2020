@@ -1,2 +1,2 @@
 # summer_research_2020
-My work at SLAC from the pandemic summer. 
+My summer research project at SLAC on studying photometric consistencies, etc. in the LSST camera CCD sensors.   
